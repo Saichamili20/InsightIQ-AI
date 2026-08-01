@@ -109,7 +109,7 @@ Clone repository:
 ```bash
 git clone https://github.com/Saichamili20/InsightIQ-AI.git
 
-## Install dependencies:
+ Install dependencies:
 
 pip install -r requirements.txt
 
