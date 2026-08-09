@@ -96,12 +96,6 @@ Creates leadership-ready summaries combining analytics and forecasts.
 
 ---
 
-## 📸 Screenshots
-
-(Add dashboard screenshots here)
-
----
-
 ## ▶️ Running the Project
 
 Clone repository:
